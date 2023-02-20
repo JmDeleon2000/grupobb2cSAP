@@ -1,0 +1,12 @@
+D:\deUvG\seguridad\grupobb2cSAP\Shared\bin\Debug\net6.0\grupobb2cSAP.Shared.deps.json
+D:\deUvG\seguridad\grupobb2cSAP\Shared\bin\Debug\net6.0\grupobb2cSAP.Shared.dll
+D:\deUvG\seguridad\grupobb2cSAP\Shared\bin\Debug\net6.0\grupobb2cSAP.Shared.pdb
+D:\deUvG\seguridad\grupobb2cSAP\Shared\obj\Debug\net6.0\grupobb2cSAP.Shared.csproj.AssemblyReference.cache
+D:\deUvG\seguridad\grupobb2cSAP\Shared\obj\Debug\net6.0\grupobb2cSAP.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\deUvG\seguridad\grupobb2cSAP\Shared\obj\Debug\net6.0\grupobb2cSAP.Shared.AssemblyInfoInputs.cache
+D:\deUvG\seguridad\grupobb2cSAP\Shared\obj\Debug\net6.0\grupobb2cSAP.Shared.AssemblyInfo.cs
+D:\deUvG\seguridad\grupobb2cSAP\Shared\obj\Debug\net6.0\grupobb2cSAP.Shared.csproj.CoreCompileInputs.cache
+D:\deUvG\seguridad\grupobb2cSAP\Shared\obj\Debug\net6.0\grupobb2cSAP.Shared.dll
+D:\deUvG\seguridad\grupobb2cSAP\Shared\obj\Debug\net6.0\refint\grupobb2cSAP.Shared.dll
+D:\deUvG\seguridad\grupobb2cSAP\Shared\obj\Debug\net6.0\grupobb2cSAP.Shared.pdb
+D:\deUvG\seguridad\grupobb2cSAP\Shared\obj\Debug\net6.0\ref\grupobb2cSAP.Shared.dll
